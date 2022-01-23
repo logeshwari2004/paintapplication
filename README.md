@@ -214,7 +214,7 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![output1](./paint.png)
+![output1](./paintoutput.png)
 ![output2](./paintoutput1.png)
 ![output3](./paintoutput2.png)
 
